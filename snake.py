@@ -18,8 +18,8 @@ foodx = round(random.randint(0, width - 20) / 10.0) * 10.0
 foody = round(random.randint(0, height - 20) / 10.0) * 10.0 
 
 screen = pygame.display.set_mode(size)
-pygame.display.set_caption('Snake')
-icon = pygame.image.load('snake.png')
+#pygame.display.set_caption('Snake')
+#icon = pygame.image.load('snake.png')
 pygame.display.set_icon(icon)
 clock = pygame.time.Clock()
 
