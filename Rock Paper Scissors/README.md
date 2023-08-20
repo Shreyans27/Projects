@@ -6,5 +6,5 @@
 
 ## Output Screenshot
 
-![image](https://github.com/Shreyans27/Projects/assets/73150420/0b5a20cd-fafe-4e10-a462-e2de57fabbff)
+![image](https://github.com/Shreyans27/Projects/assets/73150420/3ed52e2a-f204-43cd-9c5a-43b546774f8e)
 
